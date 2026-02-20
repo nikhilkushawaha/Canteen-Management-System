@@ -102,7 +102,7 @@ canteen_order_system/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/canteen-order-system.git
+git clone https://github.com/nikhilkushawaha/Canteen-Management-System
 cd canteen-order-system
 ```
 

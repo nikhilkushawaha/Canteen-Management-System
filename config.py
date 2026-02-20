@@ -1,1 +1,1 @@
-MONGO_URL="mongodb+srv://nikhil:<mypass>@cluster0.2cggkqe.mongodb.net/?appName=Cluster0"
+MONGO_URL= "mongodb+srv://nikhil:@cluster0.2cggkqe.mongodb.net/?appName=Cluster0"
